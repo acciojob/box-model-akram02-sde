@@ -1,5 +1,5 @@
 
-#container {
+.container {
 	display: flex;
 	margin: auto;
 	justify-content: center;
@@ -27,15 +27,15 @@
 	background-color: black;
 }
 
-#red {
+.red {
 	background-color: red;
 }
 
-#yellow {
+.yellow {
 	background-color: yellow;
 }
 
-#green {
+.green {
 	background-color: green;
 }
 
